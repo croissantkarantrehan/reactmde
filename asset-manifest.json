@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactmde/static/css/main.3d0e6a15.css",
+    "main.js": "/reactmde/static/js/main.a4e2e3fc.js",
+    "index.html": "/reactmde/index.html",
+    "main.3d0e6a15.css.map": "/reactmde/static/css/main.3d0e6a15.css.map",
+    "main.a4e2e3fc.js.map": "/reactmde/static/js/main.a4e2e3fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0e6a15.css",
+    "static/js/main.a4e2e3fc.js"
+  ]
+}
